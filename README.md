@@ -26,6 +26,8 @@
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
+<!-- Top performer in Microsoft Dynamics Academy, 15 certifications in IT and marketing, public speaking at Athens University of Economics at the 18th FSDET, just published my recent research paper on e-commerce at IRJEMS -->
+
 
 
 
@@ -61,22 +63,20 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 -->
 <img align="left" width="250" height="200" src="pxArt.png"/>
 
-<h3>🌌 So What Have I Done Till Now? 🌌</h3>
+<h3>🌌 So What Else Have I Done Till Now? 🌌</h3>
 
 >>> As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), I'm responsible for creating captivating visuals and immersive scenery that enhance the gaming experience. From designing detailed mock-ups, game buttons, materials and player cards to crafting soundtracks and ambient sounds, my focus is on making every playthrough visually stimulating and audibly engaging. I'm thrilled to be part of this exciting project and contribute to the world of gaming through my passion for game design, graphics, and sound. 🚀🌌
 
 -------------------
 
-<p align="left">
+<p align="center">
       <details open>
           <summary><h3>🚀 List Of Projects I've Contributed To</h3></summary>
           <a href="https://github.com/Lovelaced-Team/Settlers-of-catan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lovelaced-Team&repo=Settlers-of-catan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
       </details>
-</p>
-<p align="right">
-<details open>
+    <details open >
           <summary><h3>👽 List Of Projects I've Created</h3></summary>
-</details>
+    </details>
 </p>
 
 
