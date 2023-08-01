@@ -15,5 +15,8 @@
 
 ---------
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marf-13&label=Profile%20views&color=CCCCCC&style=plastic" alt="m-fol" /> 
+   <a href="https://twitter.com/fol_mary" ><img src="https://img.shields.io/twitter/follow/fol_mary.svg?style=social" /> </a> <br>
+  <img src="https://komarev.com/ghpvc/?username=marf-13&label=Profile%20views&color=CCCCCC&style=plastic" alt="m-fol" />
 </p>
+
+
