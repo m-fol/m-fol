@@ -65,37 +65,35 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <h3>🌌 So What Else Have I Done Till Now? 🌌</h3>
 
->>> As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), I'm responsible for creating captivating visuals and immersive scenery that enhance the gaming experience. From designing detailed mock-ups, game buttons, materials and player cards to crafting soundtracks and ambient sounds, my focus is on making every playthrough visually stimulating and audibly engaging. I'm thrilled to be part of this exciting project and contribute to the world of gaming through my passion for game design, graphics, and sound. 🚀🌌
+>>> As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), I'm responsible for creating captivating visuals and immersive scenery that enhance the gaming experience. From designing the logo, detailed mock-ups, game buttons, materials and player cards to crafting soundtracks and ambient sounds, my focus is on making every playthrough visually stimulating and audibly engaging. I'm thrilled to be part of this exciting project and contribute to the world of gaming through my passion for game design, graphics, and sound. 🚀🌌
 
--------------------
-
-<p align="center">
+<!--
+<table border="0">
+  <tr>
+    <td>
       <details open>
           <summary><h3>🚀 List Of Projects I've Contributed To</h3></summary>
-          <a href="https://github.com/Lovelaced-Team/Settlers-of-catan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lovelaced-Team&repo=Settlers-of-catan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
       </details>
-    <details open >
-          <summary><h3>👽 List Of Projects I've Created</h3></summary>
-    </details>
-</p>
-
-
+    <td>
+          <details open>
+            <summary><h3>👽 List Of Projects I've Created</h3></summary>
+          </details>
+    </td>
+  </tr>
+</table>
+-->
 
 
 ---------------
-<!--
 ## ⌛ Timeline
 
 | | Project | Time | Role |
 |-------------|-----|---|---------------------|
-| <img align="left" width="200" height="120" src="Settlers_Of_Catan_Logo (1).png">  | Settlers of Catan | 2022-2023 | Lead Graphic and Sound Designer, Code Designer |
+| <img align="left" width="170" height="70" src="Settlers_Of_Catan_Logo (1).png">  | <a align="center" href="https://github.com/Lovelaced-Team/Settlers-of-catan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lovelaced-Team&repo=Settlers-of-catan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>| 2022-2023 | Lead Graphic and Sound Designer, Code Designer |
 |  | Teams | 2023- | Lead Programmer and Designer | 
 
--->
 
-
-
-
+-------------
 
 <details> 
   <summary><h3>🛸 Github Stat Stuff</h3></summary>
