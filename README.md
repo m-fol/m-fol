@@ -13,20 +13,22 @@
 
 <h3>🌌 All You Need To Know 🌌</h3>
 
->>> Bachelor's in <b>Computer Science</b>. Enthusiast in the fields of spacecrafts, aerospace engineering, robotics, and contemporary art. Alongside programming and graphic design, in my spare time, I love researching on how satellites work. Additionally, I have a soft spot for Esolang programming languages, mock-up designing, ciphers, and a specific comic book franchise centered around transforming alien robots. Among my favorite activities are front-end development, visiting art museums <sub><i>(which can be seen on my personal site)</i></sub> and creating engaging presentations.
+Bachelor's in <b>Computer Science</b>. Enthusiast in the fields of spacecrafts, aerospace engineering, robotics, and contemporary art. Alongside programming and graphic design, in my spare time, I love researching on how satellites work. Additionally, I have a soft spot for Esolang programming languages, mock-up designing, ciphers, and a specific comic book franchise centered around transforming alien robots. Among my favorite activities are front-end development, visiting art museums <sub><i>(which can be seen on my personal site)</i></sub> and creating engaging presentations.
 
 ---------
 
 ## 🏆 Personal Development and Achievements
 
-<img align="right" width="250" height="200" src="https://github.com/m-fol/m-fol/assets/139060140/1c205958-53c1-4824-bb6b-88432cf09fd5"/>
+<img align="right" width="250" height="200" src="https://github.com/m-fol/m-fol/assets/139060140/26d3cd6c-4290-43bc-bc59-596d1e8f6ede"/>
 
 
-<h3>🌌 Lorem ipsum dolor 🌌</h3>
+<h3>🌌 What Else Than Uni? 🌌</h3>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-<!-- Top performer in Microsoft Dynamics Academy, 15 certifications in IT and marketing, public speaking at Athens University of Economics at the 18th FSDET, just published my recent research paper on e-commerce at IRJEMS -->
+Throughout my academic journey, I have embraced several opportunities for personal and professional growth. Some of these accomplishments include:
+- Top performer in [Microsoft Dynamics Academy](https://drive.google.com/file/d/1x_wW41mJcgmyY-ASwzRCw14ixJc-ZGsr/view)
+- Accumulated acquire a total of 16 certifications -and counting!- in IT and Digital Marketing from esteemed institutions such as LinkedIn, Google, and Microsoft.
+- Had the privilege of presenting my research paper on e-commerce, at the 18th Forum for Sustainable Development, Economics, and Trade (FSDET) hosted by Athens University of Economics & Business.
+- And recently got published in the International Research Journal of Economics and Management Studies ([IRJEMS](https://irjems.org)).
 
 
 
@@ -61,11 +63,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
   showSlides();
 </script>
 -->
-<img align="left" width="250" height="200" src="pxArt.png"/>
+<img align="left" width="250" height="200" src="https://github.com/m-fol/m-fol/assets/139060140/51e13fd1-0582-4ed7-b46a-a53fea07138f
+"/>
 
 <h3>🌌 So What Else Have I Done Till Now? 🌌</h3>
 
->>> As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), I'm responsible for creating captivating visuals and immersive scenery that enhance the gaming experience. From designing the logo, detailed mock-ups, game buttons, materials and player cards to crafting soundtracks and ambient sounds, my focus is on making every playthrough visually stimulating and audibly engaging. I'm thrilled to be part of this exciting project and contribute to the world of gaming through my passion for game design, graphics, and sound. 🚀🌌
+As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), I'm responsible for creating captivating visuals and immersive scenery that enhance the gaming experience. From designing the logo, detailed mock-ups, game buttons, materials and player cards to crafting soundtracks and ambient sounds, my focus is on making every playthrough visually stimulating and audibly engaging. I'm thrilled to be part of this exciting project and contribute to the world of gaming through my passion for game design, graphics, and sound. 🚀🌌
 
 <!--
 <table border="0">
@@ -90,7 +93,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 | | Project | Time | Role |
 |-------------|-----|---|---------------------|
 | <img align="left" width="170" height="70" src="Settlers_Of_Catan_Logo (1).png">  | <a align="center" href="https://github.com/Lovelaced-Team/Settlers-of-catan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lovelaced-Team&repo=Settlers-of-catan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>| 2022-2023 | Lead Graphic and Sound Designer, Code Designer |
-|  | Teams | 2023- | Lead Programmer and Designer | 
+|  | <i>In Development...</i> | 2023- | Lead Programmer and Designer | 
 
 
 -------------
