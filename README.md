@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=9A9A9A&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Student+at+University+of+Macedonia;Majoring+in+Computer+Science" alt="Typing SVG" /></a>
 
 ---------
-
+## 🌌 Contributions and Collaborations
 
 <details> 
   <summary><h3>🛸 Github Stat Stuff</h3></summary>
