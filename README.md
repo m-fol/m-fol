@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👽<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center"> ✧⫸ Hi there 👽<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> ⫷✧</h1>
 
 
-<p align="center">
+<h1 align="center">
   <img align="left" width=70px src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10393f03-66f9-435a-a1e6-ab4687034574/dczjuiw-40df9265-45c7-42cb-9fc4-b7076c2dc8df.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwMzkzZjAzLTY2ZjktNDM1YS1hMWU2LWFiNDY4NzAzNDU3NFwvZGN6anVpdy00MGRmOTI2NS00NWM3LTQyY2ItOWZjNC1iNzA3NmMyZGM4ZGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oqb9aDGZrV13OxdJ9UNKt77laqAbd3PF5O9vXRJjya8">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=D3D3D3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Majoring+in+Computer+Science;Student+at+University+of+Macedonia" alt="Typing SVG" /></a> 
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=D3D3D3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Majoring+in+Computer+Science;Student+at+University+of+Macedonia" alt="Typing SVG" /></a> 
   <img align="right" width=70px src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10393f03-66f9-435a-a1e6-ab4687034574/dczjuiw-40df9265-45c7-42cb-9fc4-b7076c2dc8df.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwMzkzZjAzLTY2ZjktNDM1YS1hMWU2LWFiNDY4NzAzNDU3NFwvZGN6anVpdy00MGRmOTI2NS00NWM3LTQyY2ItOWZjNC1iNzA3NmMyZGM4ZGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oqb9aDGZrV13OxdJ9UNKt77laqAbd3PF5O9vXRJjya8">
-</p>
+</h1>
 
 
 
