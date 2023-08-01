@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👽<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=9A9A9A&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Majoring+in+Computer+Science;Student+at+University+of+Macedonia" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=3333cc&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Majoring+in+Computer+Science;Student+at+University+of+Macedonia" alt="Typing SVG" /></a>
 
 ---------
 <img src="https://assets.kpmg.com/is/image/kpmg/international-space-station-revolving-around-earth-banner:cq5dam.web.1400.350">
@@ -19,7 +19,7 @@ Bachelor's in <b>Computer Science</b>. Enthusiast in the fields of spacecrafts, 
 
 ## 🏆 Personal Development and Achievements
 
-<img align="right" width="250" height="200" src="https://github.com/m-fol/m-fol/assets/139060140/26d3cd6c-4290-43bc-bc59-596d1e8f6ede"/>
+<img align="right" width="250" height="200" src="https://github.com/m-fol/m-fol/assets/139060140/3c29447e-095c-4870-8940-8e3dae2a6b30"/>
 
 
 <h3>🌌 What Else Than Uni? 🌌</h3>
@@ -63,7 +63,8 @@ Throughout my academic journey, I have embraced several opportunities for person
   showSlides();
 </script>
 -->
-<img align="left" width="250" height="200" src="https://github.com/m-fol/m-fol/assets/139060140/51e13fd1-0582-4ed7-b46a-a53fea07138f"/>
+<img align="left" width="250" height="200" src="https://github.com/m-fol/m-fol/assets/139060140/176d4cd8-5659-4caa-ba24-f7e5e3e40537"/>
+
 
 <h3>🌌 So What Else Have I Done Till Now? 🌌</h3>
 
