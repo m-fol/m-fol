@@ -63,8 +63,7 @@ Throughout my academic journey, I have embraced several opportunities for person
   showSlides();
 </script>
 -->
-<img align="left" width="250" height="200" src="https://github.com/m-fol/m-fol/assets/139060140/51e13fd1-0582-4ed7-b46a-a53fea07138f
-"/>
+<img align="left" width="250" height="200" src="https://github.com/m-fol/m-fol/assets/139060140/51e13fd1-0582-4ed7-b46a-a53fea07138f"/>
 
 <h3>🌌 So What Else Have I Done Till Now? 🌌</h3>
 
