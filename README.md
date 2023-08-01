@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👽<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=3333cc&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Majoring+in+Computer+Science;Student+at+University+of+Macedonia" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=3333cc&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Majoring+in+Computer+Science;Student+at+University+of+Macedonia" alt="Typing SVG" /></a> 
+</p>
 
 ---------
 <img src="https://assets.kpmg.com/is/image/kpmg/international-space-station-revolving-around-earth-banner:cq5dam.web.1400.350">
