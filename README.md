@@ -32,7 +32,7 @@ Bachelor's in <b>Computer Science</b>. Enthusiast in the fields of spacecrafts, 
 
 Throughout my academic journey, I have embraced several opportunities for personal and professional growth. Some of these accomplishments include:
 - Top performer in [Microsoft Dynamics Academy](https://drive.google.com/file/d/1x_wW41mJcgmyY-ASwzRCw14ixJc-ZGsr/view)
-- Accumulated a total of 16 certifications -and counting!- in IT and Digital Marketing from esteemed institutions such as LinkedIn, Google, and Microsoft.
+- Accumulated a total of 16 certifications -and counting!- in IT and Digital Marketing from esteemed companies such as LinkedIn, Google, and Microsoft.
 - Had the privilege of presenting my research paper on e-commerce, at the 18th Forum for Sustainable Development, Economics, and Trade (FSDET) hosted by Athens University of Economics & Business.
 - And recently got published in the International Research Journal of Economics and Management Studies ([IRJEMS](https://irjems.org)).
 
