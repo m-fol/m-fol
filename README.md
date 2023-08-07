@@ -19,7 +19,7 @@
 
 <h3>🌌 All You Need To Know 🌌</h3>
 
-Bachelor's in <b>Computer Science</b>. Enthusiast in the fields of spacecrafts, aerospace engineering, robotics, and contemporary art. Alongside programming and graphic design, in my spare time, I love researching on how satellites work. Additionally, I have a soft spot for Esolang programming languages, cheap action movies, mock-up designing, ciphers, and a specific comic book franchise centered around transforming alien robots. Among my favorite activities are front-end development, visiting art museums <sub><i>(which can be seen on my personal site)</i></sub> and creating engaging presentations.
+Bachelor's in <b>Computer Science</b>. Enthusiast in the fields of spacecrafts, aerospace engineering, robotics, and contemporary art. Alongside programming and graphic design, in my spare time, I love researching on how satellites work. Additionally, I have a soft spot for Esolang programming languages, cheap action movies, mock-up designing, ciphers, the Library of Babel and a specific comic book franchise centered around transforming alien robots. Among my favorite activities are front-end development, visiting art museums <sub><i>(which can be seen on my personal site)</i></sub> and creating engaging presentations.
 
 ---------
 
