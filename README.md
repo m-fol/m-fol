@@ -75,7 +75,7 @@ Throughout my academic journey, I have embraced several opportunities for person
 
 <h3>🌌 So What Else Have I Done Till Now? 🌌</h3>
 
-As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), I'm responsible for creating captivating visuals and immersive scenery that enhance the gaming experience. From designing the logo, detailed mock-ups, game buttons, materials and player cards to crafting soundtracks and ambient sounds, my focus is on making every playthrough visually stimulating and audibly engaging. Furthermore, as the lead <b> Graphics and Code Designer </b> for Expeye, I ensure that I bring the concept of sustainable cooking to life, revolutionizing the way individuals reduce food wastage. 🚀🌌
+As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), I'm responsible for creating the logo, detailed mock-ups, game buttons and materials to crafting soundtracks and ambient sounds, my focus is on making every playthrough visually stimulating and audibly engaging. Furthermore, as the lead <b> Graphics and Code Designer </b> for Expeye, I ensure that I bring the concept of sustainable cooking to life, revolutionizing the way individuals reduce food wastage. 🚀🌌
 
 <!--
 <table border="0">
