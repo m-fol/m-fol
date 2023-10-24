@@ -31,7 +31,7 @@ Bachelor's in <b>Computer Science</b>. Enthusiast in the fields of spacecrafts, 
 <h3>🌌 What Else Than Uni? 🌌</h3>
 
 Throughout my academic journey, I have embraced several opportunities for personal and professional growth. Some of these accomplishments include:
-- Top performer in [Microsoft Dynamics Academy](https://drive.google.com/file/d/1x_wW41mJcgmyY-ASwzRCw14ixJc-ZGsr/view)
+- Top performer in [Microsoft Dynamics Academy](https://drive.google.com/file/d/1x_wW41mJcgmyY-ASwzRCw14ixJc-ZGsr/view) and Huawei Seeds for the Future (2023).
 - External participant in COMETECH <!-- [COMETECH](https://cometechproject.eu/wp-content/uploads/2021/10/COMETECH-Final-Event_Minutes.pdf) --> Project (September 2021, Thessaloniki).
 - Accumulated a total of 16 certifications -and counting!- in IT and Digital Marketing from esteemed companies such as LinkedIn, Google, and Microsoft.
 - Had the privilege of presenting my research paper on e-commerce, at the 18th Forum for Sustainable Development, Economics, and Trade (FSDET) hosted by Athens University of Economics & Business.
@@ -75,7 +75,7 @@ Throughout my academic journey, I have embraced several opportunities for person
 
 <h3>🌌 So What Else Have I Done Till Now? 🌌</h3>
 
-As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), I'm responsible for creating captivating visuals and immersive scenery that enhance the gaming experience. From designing the logo, detailed mock-ups, game buttons, materials and player cards to crafting soundtracks and ambient sounds, my focus is on making every playthrough visually stimulating and audibly engaging. I'm thrilled to be part of this exciting project and contribute to the world of gaming through my passion for game design, graphics, and sound. 🚀🌌
+As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), I'm responsible for creating captivating visuals and immersive scenery that enhance the gaming experience. From designing the logo, detailed mock-ups, game buttons, materials and player cards to crafting soundtracks and ambient sounds, my focus is on making every playthrough visually stimulating and audibly engaging. Furthermore, as the lead <b> Graphics and Code Designer </b> for Expeye, I ensure that I bring the concept of sustainable cooking to life, revolutionizing the way individuals reduce food wastage. 🚀🌌
 
 <!--
 <table border="0">
@@ -100,7 +100,7 @@ As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https:/
 | | Project | Time | Role |
 |-------------|-----|---|---------------------|
 | <img align="left" width="170" height="70" src="Settlers_Of_Catan_Logo (1).png">  | <a align="center" href="https://github.com/Lovelaced-Team/Settlers-of-catan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lovelaced-Team&repo=Settlers-of-catan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>| 2022-2023 | Lead Graphic and Sound Designer, Code Designer |
-|  | <i>In Development...</i> | 2023- | Lead Programmer and Designer | 
+| <img width="170" height="70" alt="image" align="center" src="https://github.com/m-fol/m-fol/assets/139060140/93f0ee62-eaa2-420f-9457-1609a3ee50b4"> | <i>Expeye</i> | 2023- | Lead Programmer and Designer | 
 
 
 -------------
