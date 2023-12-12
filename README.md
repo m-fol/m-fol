@@ -79,7 +79,7 @@ Throughout my academic journey, I have embraced several opportunities for person
 <h3>🌌 So What Else Have I Done Till Now? 🌌</h3>
 
 As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), I'm responsible for creating the logo, detailed mock-ups, game buttons and materials to crafting soundtracks and ambient sounds, my focus is on making every playthrough visually stimulating and audibly engaging. 
-<br>Furthermore, as the lead <b> Graphics and Code Designer </b> for Expeye, I ensure that I bring the concept of sustainable cooking to life, revolutionizing the way individuals reduce food wastage. 🚀🌌
+<br>Furthermore, as the lead <b> Graphics and Code Designer </b> for [Expeye](https://github.com/m-fol/Expeye), I ensure that I bring the concept of sustainable cooking to life, revolutionizing the way individuals reduce food wastage. 🚀🌌
 
 <!--
 <table border="0">
@@ -105,7 +105,7 @@ As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https:/
 | | Project | Time | Role |
 |-------------|-----|---|---------------------|
 | <img align="left" width="170" height="70" src="Settlers_Of_Catan_Logo (1).png">  | <a align="center" href="https://github.com/Lovelaced-Team/Settlers-of-catan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lovelaced-Team&repo=Settlers-of-catan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>| 2022-2023 | Lead Graphic and Sound Designer, Code Designer |
-| <img width="170" height="70" alt="image" align="center" src="https://github.com/m-fol/m-fol/assets/139060140/93f0ee62-eaa2-420f-9457-1609a3ee50b4"> | <a align="center" href="https://github.com/Lovelaced-Team/Settlers-of-catan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=m-fol&repo=Expeye&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a> | 2023- | Programmer and Lead Designer [[Winners of Panhellenic Tech4Good 2023](https://www.linkedin.com/feed/update/urn:li:activity:7138169142737616896/)]| 
+| <img width="170" height="70" alt="image" align="center" src="https://github.com/m-fol/m-fol/assets/139060140/93f0ee62-eaa2-420f-9457-1609a3ee50b4"> | <a align="center" href="https://github.com/Lovelaced-Team/Settlers-of-catan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=m-fol&repo=Expeye&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a> | 2023- | Programmer and Lead Designer [[Winners of Huawei Panhellenic Tech4Good 2023](https://www.linkedin.com/feed/update/urn:li:activity:7138169142737616896/)]| 
 
 
 -------------
