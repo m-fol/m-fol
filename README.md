@@ -37,7 +37,7 @@ Throughout my academic journey, I have embraced several opportunities for person
 - Winning team of [Software Engineering yearly academic competition](https://drive.google.com/file/d/11QeOEY14W1fjXNaxfj_843m_Q2Z54yJ6/view) (2023), with the app [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), as a **Lead Graphic Designer** and **Software Designer**.
 - External participant in COMETECH <!-- [COMETECH](https://cometechproject.eu/wp-content/uploads/2021/10/COMETECH-Final-Event_Minutes.pdf) --> Project (September 2021, Thessaloniki).
 - Accumulated a total of 16 certifications -and counting!- in IT and Digital Marketing from companies such as LinkedIn, Google, and Microsoft.
-- Had the privilege of presenting my research paper on e-commerce, at the 18th Forum for Sustainable Development, Economics, and Trade (FSDET) hosted by Athens University of Economics & Business.
+- Had the privilege of presenting my research paper on e-commerce, at the 18th Forum for Sustainable Development, Economics, and Trade (FSDET, 2022) hosted by Athens University of Economics & Business. 
 - And recently got published in the International Research Journal of Economics and Management Studies ([IRJEMS](https://irjems.org)).
 
 
