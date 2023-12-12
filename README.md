@@ -118,7 +118,9 @@ As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https:/
   <br>
 
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-fol&langs_count=10&show_icons=true&locale=en&layout=compact&theme=architect"   alt="m-fol" height="130px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-fol&langs_count=10&show_icons=true&locale=en&layout=compact&theme=architect"   alt="m-fol" height="130px"/> <br> <br>
+     <img width="50" height="80" src="https://github.com/m-fol/m-fol/assets/139060140/10e6e4dd-73c2-460f-8f18-452f4d92a082">
+      <br> You found a secret Dr.Flug!
   </p>
 </details>
 
@@ -127,7 +129,6 @@ As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https:/
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m-fol&label=Profile%20views&color=CCCCCC&style=plastic" alt="m-fol" /> <br> <br>
   <a href="https://www.youtube.com/watch?v=RE8g0nJ87gI"><img width="80" height="50" src="https://1000logos.net/wp-content/uploads/2021/02/Decepticon-emblem.png"></a>
-  <img width="80" height="50" src="https://github.com/m-fol/m-fol/assets/139060140/10e6e4dd-73c2-460f-8f18-452f4d92a082">
 </p>
 
 
