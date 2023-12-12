@@ -34,6 +34,7 @@ Throughout my academic journey, I have embraced several opportunities for person
 - Winner of [Tech4Good, Huawei Seeds for the Future at Athens (2023)](https://www.protothema.gr/technology/article/1442844/i-huawei-giortazei-tin-epituhi-oloklirosi-tou-ekpaideutikou-programmatos-seeds-for-the-future-2023/) with start-up company Expeye.
 - Top performer in [Microsoft Dynamics Academy](https://drive.google.com/file/d/1x_wW41mJcgmyY-ASwzRCw14ixJc-ZGsr/view) and [Huawei Seeds for the Future (2023)](https://drive.google.com/file/d/1X5RlbpPs5QyHgyfUGE0C7swEYxaQMb0q/view).
 - Had the honor of representing [HERON Robotics](https://github.com/Heron-Robotics) (2023) through presentations while also imparting knowledge to academic audiences about GitHub and Git.
+- Winning team of [Software Engineering yearly academic competition](https://drive.google.com/file/d/11QeOEY14W1fjXNaxfj_843m_Q2Z54yJ6/view) (2023), with the app [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), as a **Lead Graphic Designer** and **Software Designer**.
 - External participant in COMETECH <!-- [COMETECH](https://cometechproject.eu/wp-content/uploads/2021/10/COMETECH-Final-Event_Minutes.pdf) --> Project (September 2021, Thessaloniki).
 - Accumulated a total of 16 certifications -and counting!- in IT and Digital Marketing from companies such as LinkedIn, Google, and Microsoft.
 - Had the privilege of presenting my research paper on e-commerce, at the 18th Forum for Sustainable Development, Economics, and Trade (FSDET) hosted by Athens University of Economics & Business.
