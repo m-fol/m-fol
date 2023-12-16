@@ -107,8 +107,14 @@ As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https:/
 | <img align="left" width="170" height="70" src="Settlers_Of_Catan_Logo (1).png">  | <a align="center" href="https://github.com/Lovelaced-Team/Settlers-of-catan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lovelaced-Team&repo=Settlers-of-catan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>| 2022-2023 | Lead Graphic and Sound Designer, Code Designer |
 | <img width="170" height="70" alt="image" align="center" src="https://github.com/m-fol/m-fol/assets/139060140/93f0ee62-eaa2-420f-9457-1609a3ee50b4"> | <a align="center" href="https://github.com/Lovelaced-Team/Settlers-of-catan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=m-fol&repo=Expeye&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a> | 2023- | Programmer and Lead Designer [[Winners of Huawei Panhellenic Tech4Good 2023](https://www.linkedin.com/feed/update/urn:li:activity:7138169142737616896/)]| 
 
+---------
+## 🪐 Medium Articles
 
--------------
+<a href="https://medium.com/@miafol123/elevate-your-github-profile-with-these-awesome-tools-and-templates-05b9dadea930"> <img width="521" alt="image" src="https://github.com/m-fol/m-fol/assets/139060140/09aa70ff-97be-46f9-ad86-e6acdb036b87"></a>
+
+
+
+---------
 
 <details> 
   <summary><h3>🛸 Github Stat Stuff</h3></summary>
