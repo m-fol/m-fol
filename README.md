@@ -116,16 +116,19 @@ As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https:/
 
 <details> 
   <summary><h3>🛸 Github Stat Stuff</h3></summary>
-  <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-fol&theme=architect&hide_border=true"/>
-  </p>
+  
+  [![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=m-fol&theme=dark)](https://github.com/m-fol/leetcode-stats)
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=m-fol&theme=dark&hide_border=true"/>
   <br>
 
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-fol&langs_count=10&show_icons=true&locale=en&layout=compact&theme=architect"   alt="m-fol" height="130px"/> <br> <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-fol&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark"   alt="m-fol" height="130px"/> <br> <br>
      <img width="50" height="80" src="https://github.com/m-fol/m-fol/assets/139060140/10e6e4dd-73c2-460f-8f18-452f4d92a082">
+    <a href="https://github.com/m-fol/leetcode-stats><img src="https://leetcode-stats-six.vercel.app/?username=m-fol&theme=dark"></a>
       <br> You found a secret Dr.Flug!
   </p>
+
+
 </details>
 
 ---------
