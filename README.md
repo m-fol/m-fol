@@ -110,9 +110,7 @@ As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https:/
 ---------
 ## 🪐 Medium Articles
 
-<a href="https://medium.com/@miafol123/elevate-your-github-profile-with-these-awesome-tools-and-templates-05b9dadea930"> <img width="521" alt="image" src="https://github.com/m-fol/m-fol/assets/139060140/09aa70ff-97be-46f9-ad86-e6acdb036b87"></a>
-
-
+  [![Medium](https://github-readme-medium.vercel.app/?username=miafol123&limit=5)](https://medium.com/@miafol123)
 
 ---------
 
