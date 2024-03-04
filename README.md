@@ -114,15 +114,15 @@ As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https:/
 
 ---------
 
-<details>
+<h3><details>
   <summary>👽 LeetCode Stats</summary>
 
   [![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=m-fol&theme=dark)](https://github.com/m-fol/leetcode-stats) 
-</details>
+</details></h3>
 
 ---------
 
-<details> 
+<h3><details> 
   <summary>🛸 Github Stat Stuff</summary>
 
   <p align="center">
@@ -140,7 +140,7 @@ As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https:/
   </p>
 
 
-</details>
+</details></h3>
 
 ---------
 
