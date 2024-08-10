@@ -37,12 +37,13 @@ Bachelor's in <b>Computer Science</b>. Enthusiast in the fields of spacecrafts, 
 Throughout my academic journey, I have embraced several opportunities for personal and professional growth. Some of these accomplishments include:
 - Winner of [Tech4Good, Huawei Seeds for the Future at Athens (2023)](https://www.protothema.gr/technology/article/1442844/i-huawei-giortazei-tin-epituhi-oloklirosi-tou-ekpaideutikou-programmatos-seeds-for-the-future-2023/) with start-up company Expeye.
 - Top performer in [Microsoft Dynamics Academy](https://drive.google.com/file/d/1x_wW41mJcgmyY-ASwzRCw14ixJc-ZGsr/view) and [Huawei Seeds for the Future (2023)](https://drive.google.com/file/d/1X5RlbpPs5QyHgyfUGE0C7swEYxaQMb0q/view).
-- Had the honor of representing [HERON Robotics](https://github.com/Heron-Robotics) (2023) through presentations while also imparting knowledge to academic audiences about GitHub and Git.
+- Had the honor of representing [HERON Robotics](https://github.com/Heron-Robotics) (2023) through presentations while also imparting knowledge to academic audiences about GitHub and Git, while also being one of the three presenting co-ordinators for [Arduino Day in UoM](https://www.linkedin.com/feed/update/urn:li:activity:7183782621439483905/) (2024)
+- Represented UoM IEEE Student Branch at the [BAUHAUS4EU European University Alliance Conference](https://www.linkedin.com/feed/update/urn:li:activity:7223998635154317312/) (2024), in [University of Macedonia](https://www.uom.gr/15656-polymelhs-ypshlobathmh-antiprosopeia-toy-panepisthmioy-bauahus-ths-baimarhs-episkefthhke-to-panepisthmio-makedonias?fbclid=IwZXh0bgNhZW0CMTAAAR1hHYKk8MKUX_HmsWnypjNh6RyCozpyk_MpsGmbkf6lsJ_o0CPNKWRbYnc_aem_1PcZeolEE784n1aQZrWerg).
 - Winning team of [Software Engineering yearly academic competition](https://drive.google.com/file/d/11QeOEY14W1fjXNaxfj_843m_Q2Z54yJ6/view) (2023), with the app [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), as a **Lead Graphic Designer** and **Software Designer**.
 - External participant in Interreg, COMETECH <!-- [COMETECH](https://cometechproject.eu/wp-content/uploads/2021/10/COMETECH-Final-Event_Minutes.pdf) --> Project (September 2021, Thessaloniki).
 - Accumulated a total of 16 certifications -and counting!- in IT and Digital Marketing from companies such as LinkedIn, Google, and Microsoft.
 - Had the privilege of presenting my research paper on e-commerce, at the 18th Forum for Sustainable Development, Economics, and Trade (FSDET, 2022) hosted by Athens University of Economics & Business. 
-- And recently got published in the International Research Journal of Economics and Management Studies ([IRJEMS](https://irjems.org)).
+- And recently got published in the International Research Journal of Economics and Management Studies ([IRJEMS](https://irjems.org)) (2023) and the [IRJSTEM](https://irjstem.com/) (2024).
 
 
 
