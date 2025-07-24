@@ -41,13 +41,6 @@ Throughout my academic journey, I have embraced several opportunities for person
 - Had the privilege of presenting my research paper on e-commerce, at the 18th Forum for Sustainable Development, Economics, and Trade (FSDET, 2022) hosted by Athens University of Economics & Business. 
 - And recently got published in the International Research Journal of Economics and Management Studies ([IRJEMS](https://irjems.org)) (2023) and the [IRJSTEM](https://irjstem.com/) (2024).
 
-
-
-
----------
-
-## 🌌 Contributions and Collaborations
-
 <!-- <div id="slideshow">
   <img src="Player_Customization_Screen.png" alt="Image 1">
   <img src="Start_Screen_Final.png" alt="Image 2">
@@ -74,13 +67,6 @@ Throughout my academic journey, I have embraced several opportunities for person
   showSlides();
 </script>
 -->
-<img align="left" width="250" height="200" src="https://github.com/m-fol/m-fol/assets/139060140/176d4cd8-5659-4caa-ba24-f7e5e3e40537"/>
-
-
-<h3>🌌 So What Else Have I Done Till Now? 🌌</h3>
-
-As the lead <b> Graphics and Sound Designer </b> for [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), I'm responsible for creating the logo, detailed mock-ups, game buttons and materials to crafting soundtracks and ambient sounds, my focus is on making every playthrough visually stimulating and audibly engaging. 
-<br>Furthermore, as the lead <b> Graphics and Code Designer </b> for [Expeye](https://github.com/m-fol/Expeye), I ensure that I bring the concept of sustainable cooking to life, revolutionizing the way individuals reduce food wastage. 🚀🌌
 
 <!--
 <table border="0">
