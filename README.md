@@ -6,6 +6,23 @@
   <img align="right" width=70px src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10393f03-66f9-435a-a1e6-ab4687034574/dczjuiw-40df9265-45c7-42cb-9fc4-b7076c2dc8df.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwMzkzZjAzLTY2ZjktNDM1YS1hMWU2LWFiNDY4NzAzNDU3NFwvZGN6anVpdy00MGRmOTI2NS00NWM3LTQyY2ItOWZjNC1iNzA3NmMyZGM4ZGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oqb9aDGZrV13OxdJ9UNKt77laqAbd3PF5O9vXRJjya8">
 </h2>
 
+
+  <p align="center">
+  <a href="https://scholar.google.com/citations?user=SfktqCIAAAAJ&hl" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=GoogleScholar" alt="Google Scholar"/>
+  </a>
+    
+  <a href="https://www.linkedin.com/in/maria-theodora-folina" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://independent.academia.edu/MariaTheodoraFolina" target="_blank">
+    <img src="https://img.shields.io/badge/Academia.edu-Profile-212121?style=for-the-badge&logo=academia.edu&logoColor=white" alt="Academia.edu"/>
+  </a>
+</p>
+
+
+
 ---------
 
 <img width="100%" height="80%" alt="space-image" src="https://github.com/m-fol/m-fol/assets/139060140/7d14438e-5d7d-4583-b5ca-ae4085ab236c">
@@ -19,7 +36,10 @@
 
 <h3>🌌 All You Need To Know 🌌</h3>
 
-Bachelor's in <b>Computer Science</b>. Enthusiast in the fields of spacecrafts, aerospace engineering, robotics, and contemporary art. Alongside programming and graphic design, in my spare time, I love researching on how satellites work. Additionally, I have a soft spot for Esolang programming languages, mock-up designing, ciphers, the Library of Babel and a specific comic book franchise centered around transforming alien robots. Among my favorite activities are front-end development, visiting art museums <sub><i>(which can be seen on my personal site)</i></sub> and creating engaging presentations.
+Bachelor's in <b>Computer Science</b>. Fan of the fields of AI, ML, aerospace engineering and robotics. Alongside programming and graphic design, in my spare time, I love learning how satellites work. Additionally, I have a soft spot for Esolang programming languages, training AI models, NLP & NER, mock-up designing and cipher decoding.
+
+**Published in 10+ peer-reviewed outlets**, including:
+*MDPI – Foods*, *Springer – Agriculture 4.0*, *IRMBAM*, *International Journal of Comic Art*, *IRJSTEM*, *ICOAEF*
 
 ---------
 
@@ -30,16 +50,18 @@ Bachelor's in <b>Computer Science</b>. Enthusiast in the fields of spacecrafts, 
 
 <h3>🌌 What Else Than Uni? 🌌</h3>
 
-Throughout my academic journey, I have embraced several opportunities for personal and professional growth. Some of these accomplishments include:
-- Winner of [Tech4Good, Huawei Seeds for the Future at Athens (2023)](https://www.protothema.gr/technology/article/1442844/i-huawei-giortazei-tin-epituhi-oloklirosi-tou-ekpaideutikou-programmatos-seeds-for-the-future-2023/) with start-up company Expeye.
-- Top performer in [Microsoft Dynamics Academy](https://drive.google.com/file/d/1x_wW41mJcgmyY-ASwzRCw14ixJc-ZGsr/view) and [Huawei Seeds for the Future (2023)](https://drive.google.com/file/d/1X5RlbpPs5QyHgyfUGE0C7swEYxaQMb0q/view).
-- Had the honor of representing [HERON Robotics](https://github.com/Heron-Robotics) (2023) through presentations while also imparting knowledge to academic audiences about GitHub and Git, while also being one of the three presenting co-ordinators for [Arduino Day in UoM](https://www.linkedin.com/feed/update/urn:li:activity:7183782621439483905/) (2024)
-- Represented UoM IEEE Student Branch at the [BAUHAUS4EU European University Alliance Conference](https://www.linkedin.com/feed/update/urn:li:activity:7223998635154317312/) (2024), in [University of Macedonia](https://www.uom.gr/15656-polymelhs-ypshlobathmh-antiprosopeia-toy-panepisthmioy-bauahus-ths-baimarhs-episkefthhke-to-panepisthmio-makedonias?fbclid=IwZXh0bgNhZW0CMTAAAR1hHYKk8MKUX_HmsWnypjNh6RyCozpyk_MpsGmbkf6lsJ_o0CPNKWRbYnc_aem_1PcZeolEE784n1aQZrWerg).
-- Winning team of [Software Engineering yearly academic competition](https://drive.google.com/file/d/11QeOEY14W1fjXNaxfj_843m_Q2Z54yJ6/view) (2023), with the app [Settlers of Catan](https://github.com/Lovelaced-Team/Settlers-of-catan), as a **Lead Graphic Designer** and **Software Designer**.
-- External participant in Interreg, COMETECH <!-- [COMETECH](https://cometechproject.eu/wp-content/uploads/2021/10/COMETECH-Final-Event_Minutes.pdf) --> Project (September 2021, Thessaloniki).
-- Accumulated a total of 16 certifications -and counting!- in IT and Digital Marketing from companies such as LinkedIn, Google, and Microsoft.
-- Had the privilege of presenting my research paper on e-commerce, at the 18th Forum for Sustainable Development, Economics, and Trade (FSDET, 2022) hosted by Athens University of Economics & Business. 
-- And recently got published in the International Research Journal of Economics and Management Studies ([IRJEMS](https://irjems.org)) (2023) and the [IRJSTEM](https://irjstem.com/) (2024).
+Throughout my academic and research journey, I’ve proudly contributed to high-impact initiatives in AI and public sector transformation. Recent highlights include:
+
+- **1st in Rank** – Fully funded participant at [AIDA AI/ML Summer School (2025)]([https://www.auth.gr](https://icarus.csd.auth.gr/aida-auth-ai-cutting-edge-trends-aicet2025-summer-symposium-and-school/), hosted by AUTH and funded by ΕΛΚΕ.
+- Selected among **30 RIS students** for the [CityMinds EU Summer School (2025)](https://www.eiturbanmobility.eu), focused on Smart Cities and Urban Mobility.
+- **National Winner** – [Huawei Tech4Good Challenge (2023)](https://www.protothema.gr/technology/article/1442844/i-huawei-giortazei-tin-epituhi-oloklirosi-tou-ekpaideutikou-programmatos-seeds-for-the-future-2023/) with Expeye, an AI-powered sustainability startup.
+- **Global Winner** – *Best Business Idea Award* at the [MRC Olympiad Finals (2024)](https://hero.org.gr) with HERON Robotics.
+- **Top 14% Worldwide** – Led the winning team of University of Macedonia at [IEEEXtreme 18.0](https://ieeextreme.org/) (2024), a 24-hour global programming competition.
+- **Conference Speaker and Hackathon Organizer** at 8+ events in 2025, including:
+  - [IRMBAM 2025 – Nice, France](https://www.linkedin.com/feed/update/urn:li:activity:7205879638326272000/)
+  - [UCAAT 2025 – CERTH, Greece](https://ucaat.etsi.org)
+  - [ICOAEF 2025 – ACT](https://icoaef.com)
+
 
 <!-- <div id="slideshow">
   <img src="Player_Customization_Screen.png" alt="Image 1">
@@ -95,36 +117,32 @@ Throughout my academic journey, I have embraced several opportunities for person
 | <img width="170" height="70" alt="image" align="center" src="https://github.com/m-fol/m-fol/assets/139060140/93f0ee62-eaa2-420f-9457-1609a3ee50b4"> | <a align="center" href="https://github.com/Lovelaced-Team/Settlers-of-catan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=m-fol&repo=Expeye&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a> | 2023- | Programmer and Lead Designer [[Winners of Huawei Panhellenic Tech4Good 2023](https://www.linkedin.com/feed/update/urn:li:activity:7138169142737616896/)]| 
 
 ---------
-## 🪐 Medium Articles
+## 🪐 My Medium Articles
 
-  [![Medium](https://github-readme-medium.vercel.app/?username=miafol123&limit=5)](https://medium.com/@miafol123)
+[![Medium Badge](https://img.shields.io/badge/Medium-@miafol123-black?style=flat&logo=medium)](https://medium.com/@miafol123)
 
----------
+<a href="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/0">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/0" alt="Latest Article">
+</a>
 
-<h3><details>
-  <summary>👽 LeetCode Stats</summary>
+<a href="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/1">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/1" alt="Latest Article">
+</a>
 
-  [![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=m-fol&theme=dark)](https://github.com/m-fol/leetcode-stats) 
-</details></h3>
+<a href="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/2" alt="Latest Article">
+</a>
+
+
 
 ---------
 
 <h3><details> 
-  <summary>🛸 Github Stat Stuff</summary>
-
-  <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-fol&theme=dark&hide_border=true"/> 
-  </p>
-  <br>
+  <summary>🛸 Github Stats</summary>
 
   <p align="center">
     <br> <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-fol&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark"   alt="m-fol" height="130px"/> 
-  </p>
-  <p align="center">
-     <img width="50" height="80" src="https://github.com/m-fol/m-fol/assets/139060140/10e6e4dd-73c2-460f-8f18-452f4d92a082">
-      <br> You found a secret Dr.Flug!
-  </p>
 
 
 </details></h3>
@@ -133,8 +151,9 @@ Throughout my academic journey, I have embraced several opportunities for person
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m-fol&label=Profile%20views&color=CCCCCC&style=plastic" alt="m-fol" /> <br> <br>
-  <a href="https://www.youtube.com/watch?v=RE8g0nJ87gI"><img width="80" height="50" src="https://1000logos.net/wp-content/uploads/2021/02/Decepticon-emblem.png"></a>
 </p>
+
+
 
 
 
