@@ -111,12 +111,11 @@ Throughout my academic and research journey, I’ve proudly contributed to high-
 ---------------
 ## ⌛ Timeline
 
-
 | | Team Project | Time | Role |
 |-------------|--------|------|---------------------|
-| <img align="center" width="100" height="100" src="https://github.com/user-attachments/assets/7e812f72-3a75-4bbf-a98f-5f6799800502"> | <a align="center" href="https://github.com/m-fol/thessdema"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=m-fol&repo=thessdema&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="thessdema repo card"></a> | 2025 | Full-stack Developer – **Team Project** on Smart Urban Data Visualization |
 | <img align="left" width="170" height="70" src="Settlers_Of_Catan_Logo (1).png">  | <a align="center" href="https://github.com/Lovelaced-Team/Settlers-of-catan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lovelaced-Team&repo=Settlers-of-catan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="settlers of catan card"></a> | 2022–2023 | Lead Graphic and Sound Designer, Code Designer |
 | <img width="170" height="70" alt="image" align="center" src="https://github.com/m-fol/m-fol/assets/139060140/93f0ee62-eaa2-420f-9457-1609a3ee50b4"> | <a align="center" href="https://github.com/m-fol/Expeye"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=m-fol&repo=Expeye&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="expeye repo card"></a> | 2023– | Programmer and Lead Designer [[Huawei Tech4Good Winner](https://www.linkedin.com/feed/update/urn:li:activity:7138169142737616896/)] |
+| <p align="center"> <img width="100" height="100" src="https://github.com/user-attachments/assets/7e812f72-3a75-4bbf-a98f-5f6799800502"> </p> | <a align="center" href="https://github.com/m-fol/thessdema"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=m-fol&repo=thessdema&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="thessdema repo card"></a> | 2025 | Full-stack Developer – **Team Project** on Smart Urban Data Visualization |
 
 
 ---------
@@ -135,7 +134,6 @@ Throughout my academic and research journey, I’ve proudly contributed to high-
 <a href="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/2">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/2" alt="Latest Article">
 </a>
-
 
 
 ---------
