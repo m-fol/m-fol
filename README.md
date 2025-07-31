@@ -19,6 +19,12 @@
   <a href="https://independent.academia.edu/MariaTheodoraFolina" target="_blank">
     <img src="https://img.shields.io/badge/Academia.edu-Profile-212121?style=for-the-badge&logo=academia.edu&logoColor=white" alt="Academia.edu"/>
   </a>
+
+<br>
+<br>
+  <a href="https://huggingface.co/spaces/marfoli/CurricuNLP" target="_blank">
+    <img src="https://img.shields.io/badge/🤗%20HuggingFace-Visit-blue" alt="Hugging Face"/>
+  </a>
 </p>
 
 
