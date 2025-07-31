@@ -28,7 +28,6 @@
 </p>
 
 
-
 ---------
 
 <img width="100%" height="80%" alt="space-image" src="https://github.com/m-fol/m-fol/assets/139060140/7d14438e-5d7d-4583-b5ca-ae4085ab236c">
@@ -113,6 +112,24 @@ Throughout my academic and research journey, I’ve proudly contributed to high-
 -->
 
 <br>
+
+------
+
+## 🚀 Most Recent Project – [CurricuNLP](https://huggingface.co/spaces/marfoli/CurricuNLP)
+
+<div align="center">
+
+[![Hugging Face](https://img.shields.io/badge/🤗%20Try%20on%20Hugging%20Face-blue?style=for-the-badge&logo=huggingface&logoColor=yellow)](https://huggingface.co/spaces/marfoli/CurricuNLP)
+
+</div>
+
+🎓 **CurricuNLP** is a FastAPI + spaCy-powered NLP system that extracts structured skill, course, and metadata from university curricula.
+
+### 🧠 Features
+- 🏷️ Named Entity Recognition on FREE-FORM data (custom-trained, completely custom dataset)
+- 📑 Fuzzy section/header detection
+- 📊 Skill frequency and curriculum mapping
+- 🌍 Designed for multilingual, academic and EU data
 
 ---------------
 ## ⌛ Timeline
