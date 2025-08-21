@@ -144,18 +144,18 @@ Throughout my academic and research journey, I’ve proudly contributed to high-
 ---------
 ## 🪐 My Medium Articles
 
-[![Medium Badge](https://img.shields.io/badge/Medium-@miafol123-black?style=flat&logo=medium)](https://medium.com/@miafol123)
+[![Medium Badge](https://img.shields.io/badge/Medium-@mariafolina-black?style=flat&logo=medium)](https://medium.com/@mariafolina)
 
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/0">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/0" alt="Latest Article">
+<a href="https://github-readme-medium-recent-article.vercel.app/medium/@mariafolina/0">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mariafolina/0" alt="Latest Article">
 </a>
 
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/1">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/1" alt="Latest Article">
+<a href="https://github-readme-medium-recent-article.vercel.app/medium/@mariafolina/1">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mariafolina/1" alt="Latest Article">
 </a>
 
-<a href="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@miafol123/2" alt="Latest Article">
+<a href="https://github-readme-medium-recent-article.vercel.app/medium/@mariafolina/2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@mariafolina/2" alt="Latest Article">
 </a>
 
 
