@@ -39,51 +39,12 @@
 
 <h3>🌌 All You Need To Know 🌌</h3>
 
-Bachelor's in <b>Computer Science</b>. Fan of the fields of AI, ML, aerospace engineering and robotics. Alongside programming and graphic design, in my spare time, I love learning how satellites work. Additionally, I have a soft spot for Esolang programming languages, training AI models, NLP & NER, mock-up designing and cipher decoding.
-
-<!-- <div id="slideshow">
-  <img src="Player_Customization_Screen.png" alt="Image 1">
-  <img src="Start_Screen_Final.png" alt="Image 2">
-  <img src="tutorial_robber.png" alt="Image 3">
-</div>
-
-<script>
-  const slideshow = document.getElementById("slideshow");
-  let slideIndex = 0;
-
-  function showSlides() {
-    const slides = slideshow.getElementsByTagName("img");
-    for (let i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    slideIndex++;
-    if (slideIndex > slides.length) {
-      slideIndex = 1;
-    }
-    slides[slideIndex - 1].style.display = "block";
-    setTimeout(showSlides, 2000); // Change slide every 2 seconds
-  }
-
-  showSlides();
-</script>
--->
-
-<!--
-<table border="0">
-  <tr>
-    <td>
-      <details open>
-          <summary><h3>🚀 List Of Projects I've Contributed To</h3></summary>
-      </details>
-    <td>
-          <details open>
-            <summary><h3>👽 List Of Projects I've Created</h3></summary>
-          </details>
-    </td>
-  </tr>
-</table>
--->
-
+Bachelor's in <b>Computer Science</b>. Working on AI, ML, aerospace engineering and robotics. 
+<br>
+Esolang programming languages, training AI models, NLP & NER, mock-up designing and cipher decoding.
+<br>
+<br>
+<br>
 <br>
 
 ------
@@ -99,7 +60,7 @@ Bachelor's in <b>Computer Science</b>. Fan of the fields of AI, ML, aerospace en
  **CurricuNLP** is a FastAPI + spaCy-powered NLP system that extracts structured skill, course, and metadata from university curricula.
 
 ### Features
-- Named Entity Recognition on FREE-FORM data (custom-trained, completely custom dataset)
+- Named Entity Recognition on free form data (custom-trained, custom dataset)
 - Fuzzy section/header detection
 - Skill frequency and curriculum mapping
 - Designed for multilingual, academic and EU data
