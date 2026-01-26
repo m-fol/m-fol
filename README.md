@@ -39,9 +39,12 @@
 
 <h3>🌌 All You Need To Know 🌌</h3>
 
-Bachelor's in <b>Computer Science</b>. Working on AI, ML, aerospace engineering and robotics. 
 <br>
-Esolang programming languages, training AI models, NLP & NER, mock-up designing and cipher decoding.
+- Bachelor's in <b>Computer Science</b>.
+<br>
+- Working on AI, ML, aerospace engineering and robotics. 
+<br>
+- Esolang programming languages, training AI models, NLP & NER, mock-up designing and cipher decoding.
 <br>
 <br>
 <br>
