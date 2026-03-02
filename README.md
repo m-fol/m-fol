@@ -1,9 +1,5 @@
 <h2 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
 
-<h2 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=D3D3D3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Majoring+in+Computer+Science;Researcher+in+ML" alt="Typing SVG"/></a> 
-</h2>
-
 
   <p align="center">
   <a href="https://scholar.google.com/citations?user=SfktqCIAAAAJ&hl" target="_blank">
@@ -50,25 +46,8 @@
 <br>
 <br>
 
-------
+-------
 
-## Most Recent Project – [CurricuNLP](https://huggingface.co/spaces/marfoli/CurricuNLP)
-
-<div align="center">
-
-[![Hugging Face](https://img.shields.io/badge/🤗%20Try%20on%20Hugging%20Face-blue?style=for-the-badge&logo=huggingface&logoColor=yellow)](https://huggingface.co/spaces/marfoli/CurricuNLP)
-
-</div>
-
- **CurricuNLP** is a FastAPI + spaCy-powered NLP system that extracts structured skill, course, and metadata from university curricula.
-
-### Features
-- Named Entity Recognition on free form data (custom-trained, custom dataset)
-- Fuzzy section/header detection
-- Skill frequency and curriculum mapping
-- Designed for multilingual, academic and EU data
-
----------------
 ## ⌛ Timeline
 
 | | Team Project | Time | Role |
