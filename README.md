@@ -1,19 +1,26 @@
-<h1 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=9A9A9A&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Student+at+University+of+Macedonia;Majoring+in+Computer+Science" alt="Typing SVG" /></a>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-fol&theme=architect&hide_border=true"/>
-</p>
-<br>
-
-
-<p align="center">
+  <p align="center">
+  <a href="https://scholar.google.com/citations?user=nuwgbRMAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=GoogleScholar" alt="Google Scholar"/>
+  </a>
+    
+  <a href="https://www.linkedin.com/in/maria-theodora-folina" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-fol&langs_count=10&show_icons=true&locale=en&layout=compact&theme=architect" alt="m-fol" height="130px"/>
+  <a href="https://independent.academia.edu/MariaTheodoraFolina" target="_blank">
+    <img src="https://img.shields.io/badge/Academia.edu-Profile-212121?style=for-the-badge&logo=academia.edu&logoColor=white" alt="Academia.edu"/>
+  </a>
+
+<br>
+<br>
+  <a href="https://huggingface.co/spaces/marfoli/CurricuNLP" target="_blank">
+    <img src="https://img.shields.io/badge/🤗%20HuggingFace-Visit-blue" alt="Hugging Face"/>
+  </a>
 </p>
 
----------
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marf-13&label=Profile%20views&color=CCCCCC&style=plastic" alt="m-fol" /> 
-</p>
+
+
+<img width="100%" height="80%" alt="space-image" src="https://github.com/m-fol/m-fol/assets/139060140/7d14438e-5d7d-4583-b5ca-ae4085ab236c">
+
+
+
