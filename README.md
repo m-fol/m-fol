@@ -13,7 +13,7 @@
 
 <br>
 <br>
-  <a href="https://huggingface.co/spaces/marfoli/CurricuNLP" target="_blank">
+  <a href="https://huggingface.co/spaces/marfoli" target="_blank">
     <img src="https://img.shields.io/badge/🤗%20HuggingFace-Visit-blue" alt="Hugging Face"/>
   </a>
 </p>
